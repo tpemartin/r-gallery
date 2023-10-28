@@ -1,3 +1,23 @@
+# `index.html`
+
+```html
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
+```
+
+  - `<title>...</title>` determines the tab title of the page.
+
 # Modulization of Components
 
 ![Gallery card](../img/gallery-card.png)
@@ -11,7 +31,7 @@
 - All the component names that you come up with should be in some `.jsx` files -- no matter in one file or scatter into multiple files. These `.jsx` files are your modules.
 
 
-## 2. Structure your modules
+## 2. Module scaffolding
 
 ### 2.1. Module folder structure
 
@@ -115,3 +135,6 @@ Following above rules to structure your module files, you can easily see which c
 ## 3. Bottom up development
 
 Always start from the bottom level components and work your way up to the top level components.
+
+### `<GalleryCardTitle/>`
+
