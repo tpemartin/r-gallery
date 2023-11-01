@@ -138,3 +138,13 @@ Always start from the bottom level components and work your way up to the top le
 
 ### `<GalleryCardTitle/>`
 
+  - [Module content](https://github.com/tpemartin/r-gallery/blob/c6002c9f4017864e097332d0f22c369886efa421/src/components/GalleryCard/GalleryCardTitle/index.jsx)
+  - [Source differences](https://github.com/tpemartin/r-gallery/commit/c6002c9f4017864e097332d0f22c369886efa421#diff-494bcd3143155fa5fc006a4a5d812bf649febec39937c467a1e4af0f18e1badd)
+
+### `<GalleryCardVideo/>`
+
+  - [Module content]()
+  - [Source differences]()
+  
+
+<iframe src="https://player.vimeo.com/video/877867752?h=15bd33812f" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
