@@ -20,7 +20,7 @@
 
 # Modulization of Components
 
-![Gallery card](../img/gallery-card.png)
+[![Gallery card](../img/gallery-card.png)](https://tpemartin.github.io/gallery/)
 
 ## 1. Decompose the UI into components
 
@@ -143,8 +143,8 @@ Always start from the bottom level components and work your way up to the top le
 
 ### `<GalleryCardVideo/>`
 
-  - [Module content]()
-  - [Source differences]()
+  - [Module content](https://github.com/tpemartin/r-gallery/blob/0b66e72dc7b775a50fff9522456cf83c5cf5ae06/src/components/GalleryCard/GalleryCardVideo/index.jsx)
+  - [Source differences](https://github.com/tpemartin/r-gallery/commit/0b66e72dc7b775a50fff9522456cf83c5cf5ae06#diff-37f24cd724644a52cf2f343971b3e4e28b19b8e6bcf425e53ec6eb692e606b1c)
   
 
 <iframe src="https://player.vimeo.com/video/877867752?h=15bd33812f" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
