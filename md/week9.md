@@ -1,6 +1,6 @@
 # useState
 
-![useState](img/GalleryCardAction.png)
+[![useState](img/GalleryCardAction.png)](https://tpemartin.github.io/week9-web-app-2/r-gallery/)
 
 ## `<ActionControl>`
 
