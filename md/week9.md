@@ -2,6 +2,8 @@
 
 [![useState](img/GalleryCardAction.png)](https://tpemartin.github.io/week9-web-app-2/r-gallery/)
 
+  - [Use week9 as a starting point](https://github.com/tpemartin/week9-web-app-2/tree/main/src/week9)
+
 ## `<ActionControl>`
 
 https://github.com/tpemartin/week9-web-app-2/blob/7d2268a529a3e18b7d65973937bf4ff446630fe7/src/r-gallery/components/GalleryCard/GalleryCardAction/index.jsx#L36
