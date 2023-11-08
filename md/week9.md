@@ -117,9 +117,13 @@ function ActionControl({ ratingOpen = false, onClick }) {
 
   - `onClick` must be added to input argument, so that it can be passed to `<CloseIcon/>` and `<GradeIcon/>`.
 
+### 4. Before and after
+
+[Compare before and after](https://github.com/tpemartin/week9-web-app-2/commit/c2d2eb400cb259f62bb024b5aa2d59003aabb5ac)
+
 ## `<ProjectRating/>`
 
-### onChange
+### 1. onChange
 
 `<Rating/>` component has an `onChange` event handler that can be used to update the rating value.
 
@@ -147,7 +151,7 @@ function ProjectRating({ ratingOpen = false }) {
   - if you change `value={null}` to `value={2}`, you will see the rating value is always `2` no matter what you click.  
   - when user interact with the `<Rating/>` component by clicking the number of stars they want to give, the `onChange` event handler will be triggered, which tells us what the value the user has selected.
 
-### Use state to update rating value
+### 2. Use state to update rating value
 
 ```jsx
  function ProjectRating({ ratingOpen = false }) {
@@ -172,5 +176,7 @@ function ProjectRating({ ratingOpen = false }) {
     )
 }
 ```
+
+### 3. Before and after
 
   - [Compare before and after](https://github.com/tpemartin/week9-web-app-2/commit/03536a98d599872ab62fb1b2b75d6e1d8fc3c1e9)
