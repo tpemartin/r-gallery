@@ -1,5 +1,7 @@
 # useState
 
+![useState](img/GalleryCardAction.png)
+
 ## `<ActionControl>`
 
 https://github.com/tpemartin/week9-web-app-2/blob/7d2268a529a3e18b7d65973937bf4ff446630fe7/src/r-gallery/components/GalleryCard/GalleryCardAction/index.jsx#L36
